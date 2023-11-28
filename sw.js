@@ -5,7 +5,7 @@ const CACHE_NAME = 'v1_cache_SuleymaSinaiPWA'
 var urlsToCache = [
     './',
     './css/style.css',
-    './img/logo.png',
+    './img/sule.png',
     './img/1.png',
     './img/2.png',
     './img/3.png',
